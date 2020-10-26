@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\SO\SO\bin\Debug\netcoreapp2.0\cosmos\SO.deps.json
+C:\Users\Usuario\source\repos\SO\SO\bin\Debug\netcoreapp2.0\cosmos\SO.dll
+C:\Users\Usuario\source\repos\SO\SO\bin\Debug\netcoreapp2.0\cosmos\SO.pdb
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.dll
+C:\Users\Usuario\source\repos\SO\SO\obj\Debug\netcoreapp2.0\cosmos\SO.pdb
